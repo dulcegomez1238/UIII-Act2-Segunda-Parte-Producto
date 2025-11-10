@@ -2,11 +2,15 @@
 crear prompt con IA  para la tabla de Producto
 
 
-PARTE 1: Crear la estructura del proyecto
+##PARTE 1: Crear la estructura del proyecto
 
-1️⃣ Abre VS Code
-2️⃣ Abre una terminal en VS Code.
-3️⃣ Crea el proyecto Django y la app:
+1️⃣## Abre VS Code
+
+
+2️⃣## Abre una terminal en VS Code.
+
+
+3️⃣## Crea el proyecto Django y la app:
 
 django-admin startproject backend_Farmacia UIII_Farmacia_0777
 cd UIII_Farmacia_0777
